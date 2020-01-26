@@ -4,6 +4,8 @@ description: 笔记本型号列表
 
 # 笔记本型号列表
 
+深度百科[https://wiki.deepin.org/wiki/%E5%85%BC%E5%AE%B9%E6%80%A7%E8%89%AF%E5%A5%BD%E7%9A%84%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%9E%8B%E5%8F%B7](https://wiki.deepin.org/wiki/%E5%85%BC%E5%AE%B9%E6%80%A7%E8%89%AF%E5%A5%BD%E7%9A%84%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%9E%8B%E5%8F%B7)
+
 | 品牌 | 型号 | 网卡 | 无线网卡 | 显卡 | 声卡 | 键盘 | 触摸板 | 备注 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 三星 | 530u3c | 支持 | 支持 | 支持 | 支持 | 支持 | 支持 | 完全支持 |
